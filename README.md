@@ -1,7 +1,7 @@
 # Mouse-Speed-Switcher
 Mouse Speed Switcher application for Windows
 
-# REQUIRES VISUAL STUDIO INSTALLED
+**REQUIRES VISUAL STUDIO INSTALLED**
 Some day will make it dependency-free :D
 
 This software code is provided to you as a free software under a GPLv3 license.
